@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+config/destinations.yaml
+launch/tasks.launch.py
+resource/wifibot_tasks
+wifibot_tasks/__init__.py
+wifibot_tasks/destination_navigator.py
+wifibot_tasks.egg-info/PKG-INFO
+wifibot_tasks.egg-info/SOURCES.txt
+wifibot_tasks.egg-info/dependency_links.txt
+wifibot_tasks.egg-info/entry_points.txt
+wifibot_tasks.egg-info/requires.txt
+wifibot_tasks.egg-info/top_level.txt
+wifibot_tasks.egg-info/zip-safe

@@ -1,0 +1,17 @@
+[4.111s] Invoking command in '/home/user/wifibot_ws/build/wifibot_control': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_control/build --no-deps symlink_data
+[5.579s] running develop
+[6.584s] running egg_info
+[6.586s] writing wifibot_control.egg-info/PKG-INFO
+[6.587s] writing dependency_links to wifibot_control.egg-info/dependency_links.txt
+[6.588s] writing entry points to wifibot_control.egg-info/entry_points.txt
+[6.589s] writing requirements to wifibot_control.egg-info/requires.txt
+[6.590s] writing top-level names to wifibot_control.egg-info/top_level.txt
+[6.607s] reading manifest file 'wifibot_control.egg-info/SOURCES.txt'
+[6.611s] writing manifest file 'wifibot_control.egg-info/SOURCES.txt'
+[6.743s] running build_ext
+[6.744s] Creating /home/user/wifibot_ws/install/wifibot_control/lib/python3.10/site-packages/wifibot-control.egg-link (link to .)
+[6.748s] Installing cmd_vel_adapter script to /home/user/wifibot_ws/install/wifibot_control/lib/wifibot_control
+[6.750s] 
+[6.750s] Installed /home/user/wifibot_ws/build/wifibot_control
+[6.751s] running symlink_data
+[7.007s] Invoked command in '/home/user/wifibot_ws/build/wifibot_control' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_control/build --no-deps symlink_data

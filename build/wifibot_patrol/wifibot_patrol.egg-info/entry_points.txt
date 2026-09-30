@@ -1,0 +1,4 @@
+[console_scripts]
+path_follower = wifibot_patrol.path_follower:main
+patrol_node = wifibot_patrol.patrol_node:main
+

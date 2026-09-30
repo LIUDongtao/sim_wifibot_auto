@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating wifibot_bringup.egg-info
+writing wifibot_bringup.egg-info/PKG-INFO
+writing dependency_links to wifibot_bringup.egg-info/dependency_links.txt
+writing entry points to wifibot_bringup.egg-info/entry_points.txt
+writing requirements to wifibot_bringup.egg-info/requires.txt
+writing top-level names to wifibot_bringup.egg-info/top_level.txt
+writing manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+reading manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_bringup/lib/python3.10/site-packages/wifibot-bringup.egg-link (link to .)
+
+Installed /home/user/wifibot_ws/build/wifibot_bringup
+running symlink_data
+creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index
+creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index
+creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/resource/wifibot_bringup -> /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/package.xml -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup
+creating /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/launch/sim_bringup.launch.py -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/launch/real_bringup.launch.py -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch

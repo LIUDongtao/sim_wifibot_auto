@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating wifibot_gazebo.egg-info
+writing wifibot_gazebo.egg-info/PKG-INFO
+writing dependency_links to wifibot_gazebo.egg-info/dependency_links.txt
+writing entry points to wifibot_gazebo.egg-info/entry_points.txt
+writing requirements to wifibot_gazebo.egg-info/requires.txt
+writing top-level names to wifibot_gazebo.egg-info/top_level.txt
+writing manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+reading manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages/wifibot-gazebo.egg-link (link to .)
+
+Installed /home/user/wifibot_ws/build/wifibot_gazebo
+running symlink_data
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/resource/wifibot_gazebo -> /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/package.xml -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/launch/simulation.launch.py -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/launch/simulation.launch.py.bak -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world.backup -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world.before_sensors_fix -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/config
+symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/config/bridge.yaml -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/config

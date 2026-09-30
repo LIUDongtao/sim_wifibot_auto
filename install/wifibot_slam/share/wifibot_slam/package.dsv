@@ -1,0 +1,9 @@
+source;share/wifibot_slam/hook/pythonpath.ps1
+source;share/wifibot_slam/hook/pythonpath.dsv
+source;share/wifibot_slam/hook/pythonpath.sh
+source;share/wifibot_slam/hook/ament_prefix_path.ps1
+source;share/wifibot_slam/hook/ament_prefix_path.dsv
+source;share/wifibot_slam/hook/ament_prefix_path.sh
+source;../../build/wifibot_slam/share/wifibot_slam/hook/pythonpath_develop.ps1
+source;../../build/wifibot_slam/share/wifibot_slam/hook/pythonpath_develop.dsv
+source;../../build/wifibot_slam/share/wifibot_slam/hook/pythonpath_develop.sh

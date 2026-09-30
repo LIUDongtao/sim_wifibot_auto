@@ -1,0 +1,18 @@
+[2.494s] Invoking command in '/home/user/wifibot_ws/build/wifibot_gazebo': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_gazebo/build --no-deps symlink_data
+[3.199s] running develop
+[3.695s] running egg_info
+[3.695s] writing wifibot_gazebo.egg-info/PKG-INFO
+[3.696s] writing dependency_links to wifibot_gazebo.egg-info/dependency_links.txt
+[3.697s] writing entry points to wifibot_gazebo.egg-info/entry_points.txt
+[3.697s] writing requirements to wifibot_gazebo.egg-info/requires.txt
+[3.697s] writing top-level names to wifibot_gazebo.egg-info/top_level.txt
+[3.701s] reading manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+[3.703s] writing manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+[3.807s] running build_ext
+[3.808s] Creating /home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages/wifibot-gazebo.egg-link (link to .)
+[3.827s] 
+[3.827s] Installed /home/user/wifibot_ws/build/wifibot_gazebo
+[3.828s] running symlink_data
+[3.828s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/launch/__pycache__/simulation.launch.cpython-310.pyc -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch/__pycache__
+[3.828s] error: [Errno 17] File exists: '/home/user/wifibot_ws/build/wifibot_gazebo/launch/__pycache__/simulation.launch.cpython-310.pyc' -> '/home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch/__pycache__/simulation.launch.cpython-310.pyc'
+[3.915s] Invoked command in '/home/user/wifibot_ws/build/wifibot_gazebo' returned '1': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_gazebo/build --no-deps symlink_data

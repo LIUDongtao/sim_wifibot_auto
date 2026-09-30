@@ -1,0 +1,30 @@
+[4.169s] Invoking command in '/home/user/wifibot_ws/build/wifibot_slam': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_slam/build --no-deps symlink_data
+[5.057s] running develop
+[5.588s] running egg_info
+[5.588s] creating wifibot_slam.egg-info
+[5.588s] writing wifibot_slam.egg-info/PKG-INFO
+[5.589s] writing dependency_links to wifibot_slam.egg-info/dependency_links.txt
+[5.589s] writing entry points to wifibot_slam.egg-info/entry_points.txt
+[5.589s] writing requirements to wifibot_slam.egg-info/requires.txt
+[5.589s] writing top-level names to wifibot_slam.egg-info/top_level.txt
+[5.590s] writing manifest file 'wifibot_slam.egg-info/SOURCES.txt'
+[5.594s] reading manifest file 'wifibot_slam.egg-info/SOURCES.txt'
+[5.596s] writing manifest file 'wifibot_slam.egg-info/SOURCES.txt'
+[5.695s] running build_ext
+[5.695s] Creating /home/user/wifibot_ws/install/wifibot_slam/lib/python3.10/site-packages/wifibot-slam.egg-link (link to .)
+[5.698s] 
+[5.698s] Installed /home/user/wifibot_ws/build/wifibot_slam
+[5.698s] running symlink_data
+[5.698s] creating /home/user/wifibot_ws/install/wifibot_slam/share/ament_index
+[5.699s] creating /home/user/wifibot_ws/install/wifibot_slam/share/ament_index/resource_index
+[5.699s] creating /home/user/wifibot_ws/install/wifibot_slam/share/ament_index/resource_index/packages
+[5.699s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/resource/wifibot_slam -> /home/user/wifibot_ws/install/wifibot_slam/share/ament_index/resource_index/packages
+[5.699s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/package.xml -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam
+[5.699s] creating /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/launch
+[5.700s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/launch/mapping.launch.py -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/launch
+[5.700s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/launch/localization.launch.py -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/launch
+[5.700s] creating /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/config
+[5.700s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/config/rtabmap_localization.yaml -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/config
+[5.700s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/config/rgbd_odometry.yaml -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/config
+[5.701s] symbolically linking /home/user/wifibot_ws/build/wifibot_slam/config/rtabmap_mapping.yaml -> /home/user/wifibot_ws/install/wifibot_slam/share/wifibot_slam/config
+[5.854s] Invoked command in '/home/user/wifibot_ws/build/wifibot_slam' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_slam/build --no-deps symlink_data

@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+config/nav2.yaml
+launch/navigation.launch.py
+maps/indoor/map.pgm
+maps/indoor/map.yaml
+resource/wifibot_navigation
+wifibot_navigation/__init__.py
+wifibot_navigation.egg-info/PKG-INFO
+wifibot_navigation.egg-info/SOURCES.txt
+wifibot_navigation.egg-info/dependency_links.txt
+wifibot_navigation.egg-info/entry_points.txt
+wifibot_navigation.egg-info/requires.txt
+wifibot_navigation.egg-info/top_level.txt
+wifibot_navigation.egg-info/zip-safe

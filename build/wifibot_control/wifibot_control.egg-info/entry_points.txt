@@ -1,0 +1,3 @@
+[console_scripts]
+cmd_vel_adapter = wifibot_control.cmd_vel_adapter:main
+

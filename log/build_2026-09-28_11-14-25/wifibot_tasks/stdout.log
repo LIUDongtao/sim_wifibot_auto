@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating wifibot_tasks.egg-info
+writing wifibot_tasks.egg-info/PKG-INFO
+writing dependency_links to wifibot_tasks.egg-info/dependency_links.txt
+writing entry points to wifibot_tasks.egg-info/entry_points.txt
+writing requirements to wifibot_tasks.egg-info/requires.txt
+writing top-level names to wifibot_tasks.egg-info/top_level.txt
+writing manifest file 'wifibot_tasks.egg-info/SOURCES.txt'
+reading manifest file 'wifibot_tasks.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_tasks.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_tasks/lib/python3.10/site-packages/wifibot-tasks.egg-link (link to .)
+Installing destination_navigator script to /home/user/wifibot_ws/install/wifibot_tasks/lib/wifibot_tasks
+
+Installed /home/user/wifibot_ws/build/wifibot_tasks
+running symlink_data
+creating /home/user/wifibot_ws/install/wifibot_tasks/share/ament_index
+creating /home/user/wifibot_ws/install/wifibot_tasks/share/ament_index/resource_index
+creating /home/user/wifibot_ws/install/wifibot_tasks/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_tasks/resource/wifibot_tasks -> /home/user/wifibot_ws/install/wifibot_tasks/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_tasks/package.xml -> /home/user/wifibot_ws/install/wifibot_tasks/share/wifibot_tasks
+creating /home/user/wifibot_ws/install/wifibot_tasks/share/wifibot_tasks/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_tasks/launch/tasks.launch.py -> /home/user/wifibot_ws/install/wifibot_tasks/share/wifibot_tasks/launch
+creating /home/user/wifibot_ws/install/wifibot_tasks/share/wifibot_tasks/config
+symbolically linking /home/user/wifibot_ws/build/wifibot_tasks/config/destinations.yaml -> /home/user/wifibot_ws/install/wifibot_tasks/share/wifibot_tasks/config

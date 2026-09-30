@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating wifibot_description.egg-info
+writing wifibot_description.egg-info/PKG-INFO
+writing dependency_links to wifibot_description.egg-info/dependency_links.txt
+writing entry points to wifibot_description.egg-info/entry_points.txt
+writing requirements to wifibot_description.egg-info/requires.txt
+writing top-level names to wifibot_description.egg-info/top_level.txt
+writing manifest file 'wifibot_description.egg-info/SOURCES.txt'
+reading manifest file 'wifibot_description.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_description/lib/python3.10/site-packages/wifibot-description.egg-link (link to .)
+
+Installed /home/user/wifibot_ws/build/wifibot_description
+running symlink_data
+creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index
+creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index
+creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/resource/wifibot_description -> /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/package.xml -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description
+creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/launch/display.launch.py -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/launch
+creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/simulated_zed2i.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro.bak -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/simulated_zed2i.xacro.classic -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro.classic -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot.urdf.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/rviz
+symbolically linking /home/user/wifibot_ws/build/wifibot_description/rviz/model.rviz -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/rviz

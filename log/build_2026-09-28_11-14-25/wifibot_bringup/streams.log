@@ -1,0 +1,26 @@
+[4.386s] Invoking command in '/home/user/wifibot_ws/build/wifibot_bringup': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_bringup/build --no-deps symlink_data
+[5.523s] running develop
+[6.558s] running egg_info
+[6.559s] creating wifibot_bringup.egg-info
+[6.560s] writing wifibot_bringup.egg-info/PKG-INFO
+[6.562s] writing dependency_links to wifibot_bringup.egg-info/dependency_links.txt
+[6.562s] writing entry points to wifibot_bringup.egg-info/entry_points.txt
+[6.563s] writing requirements to wifibot_bringup.egg-info/requires.txt
+[6.565s] writing top-level names to wifibot_bringup.egg-info/top_level.txt
+[6.566s] writing manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+[6.573s] reading manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+[6.587s] writing manifest file 'wifibot_bringup.egg-info/SOURCES.txt'
+[6.903s] running build_ext
+[6.921s] Creating /home/user/wifibot_ws/install/wifibot_bringup/lib/python3.10/site-packages/wifibot-bringup.egg-link (link to .)
+[6.921s] 
+[6.921s] Installed /home/user/wifibot_ws/build/wifibot_bringup
+[6.922s] running symlink_data
+[6.922s] creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index
+[6.922s] creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index
+[6.922s] creating /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index/packages
+[6.922s] symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/resource/wifibot_bringup -> /home/user/wifibot_ws/install/wifibot_bringup/share/ament_index/resource_index/packages
+[6.922s] symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/package.xml -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup
+[6.922s] creating /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch
+[6.922s] symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/launch/sim_bringup.launch.py -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch
+[6.923s] symbolically linking /home/user/wifibot_ws/build/wifibot_bringup/launch/real_bringup.launch.py -> /home/user/wifibot_ws/install/wifibot_bringup/share/wifibot_bringup/launch
+[7.679s] Invoked command in '/home/user/wifibot_ws/build/wifibot_bringup' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_bringup/build --no-deps symlink_data

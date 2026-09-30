@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+launch/real_bringup.launch.py
+launch/sim_bringup.launch.py
+resource/wifibot_bringup
+wifibot_bringup/__init__.py
+wifibot_bringup.egg-info/PKG-INFO
+wifibot_bringup.egg-info/SOURCES.txt
+wifibot_bringup.egg-info/dependency_links.txt
+wifibot_bringup.egg-info/entry_points.txt
+wifibot_bringup.egg-info/requires.txt
+wifibot_bringup.egg-info/top_level.txt
+wifibot_bringup.egg-info/zip-safe

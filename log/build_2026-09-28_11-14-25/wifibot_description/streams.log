@@ -1,0 +1,34 @@
+[4.167s] Invoking command in '/home/user/wifibot_ws/build/wifibot_description': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_description/build --no-deps symlink_data
+[4.934s] running develop
+[6.092s] running egg_info
+[6.093s] creating wifibot_description.egg-info
+[6.094s] writing wifibot_description.egg-info/PKG-INFO
+[6.095s] writing dependency_links to wifibot_description.egg-info/dependency_links.txt
+[6.096s] writing entry points to wifibot_description.egg-info/entry_points.txt
+[6.097s] writing requirements to wifibot_description.egg-info/requires.txt
+[6.097s] writing top-level names to wifibot_description.egg-info/top_level.txt
+[6.098s] writing manifest file 'wifibot_description.egg-info/SOURCES.txt'
+[6.104s] reading manifest file 'wifibot_description.egg-info/SOURCES.txt'
+[6.117s] writing manifest file 'wifibot_description.egg-info/SOURCES.txt'
+[6.238s] running build_ext
+[6.240s] Creating /home/user/wifibot_ws/install/wifibot_description/lib/python3.10/site-packages/wifibot-description.egg-link (link to .)
+[6.243s] 
+[6.243s] Installed /home/user/wifibot_ws/build/wifibot_description
+[6.244s] running symlink_data
+[6.245s] creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index
+[6.245s] creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index
+[6.246s] creating /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index/packages
+[6.247s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/resource/wifibot_description -> /home/user/wifibot_ws/install/wifibot_description/share/ament_index/resource_index/packages
+[6.247s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/package.xml -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description
+[6.248s] creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/launch
+[6.248s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/launch/display.launch.py -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/launch
+[6.249s] creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.250s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/simulated_zed2i.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.250s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro.bak -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.251s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.256s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/simulated_zed2i.xacro.classic -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.257s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot_base.xacro.classic -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.258s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/urdf/wifibot.urdf.xacro -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/urdf
+[6.258s] creating /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/rviz
+[6.259s] symbolically linking /home/user/wifibot_ws/build/wifibot_description/rviz/model.rviz -> /home/user/wifibot_ws/install/wifibot_description/share/wifibot_description/rviz
+[6.669s] Invoked command in '/home/user/wifibot_ws/build/wifibot_description' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_description/build --no-deps symlink_data

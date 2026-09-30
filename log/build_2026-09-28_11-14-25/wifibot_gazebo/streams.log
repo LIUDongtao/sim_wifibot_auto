@@ -1,0 +1,31 @@
+[4.757s] Invoking command in '/home/user/wifibot_ws/build/wifibot_gazebo': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_gazebo/build --no-deps symlink_data
+[6.427s] running develop
+[7.169s] running egg_info
+[7.169s] creating wifibot_gazebo.egg-info
+[7.169s] writing wifibot_gazebo.egg-info/PKG-INFO
+[7.170s] writing dependency_links to wifibot_gazebo.egg-info/dependency_links.txt
+[7.170s] writing entry points to wifibot_gazebo.egg-info/entry_points.txt
+[7.170s] writing requirements to wifibot_gazebo.egg-info/requires.txt
+[7.170s] writing top-level names to wifibot_gazebo.egg-info/top_level.txt
+[7.171s] writing manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+[7.175s] reading manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+[7.177s] writing manifest file 'wifibot_gazebo.egg-info/SOURCES.txt'
+[7.274s] running build_ext
+[7.274s] Creating /home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages/wifibot-gazebo.egg-link (link to .)
+[7.276s] 
+[7.276s] Installed /home/user/wifibot_ws/build/wifibot_gazebo
+[7.276s] running symlink_data
+[7.276s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index
+[7.276s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index
+[7.276s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index/packages
+[7.277s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/resource/wifibot_gazebo -> /home/user/wifibot_ws/install/wifibot_gazebo/share/ament_index/resource_index/packages
+[7.277s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/package.xml -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo
+[7.277s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch
+[7.277s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/launch/simulation.launch.py -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch
+[7.277s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+[7.278s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world.backup -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+[7.278s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world.before_sensors_fix -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+[7.278s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/worlds/indoor.world -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/worlds
+[7.278s] creating /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/config
+[7.278s] symbolically linking /home/user/wifibot_ws/build/wifibot_gazebo/config/bridge.yaml -> /home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/config
+[7.621s] Invoked command in '/home/user/wifibot_ws/build/wifibot_gazebo' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_gazebo/build --no-deps symlink_data

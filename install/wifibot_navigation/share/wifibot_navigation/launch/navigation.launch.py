@@ -1,0 +1,1 @@
+/home/user/wifibot_ws/build/wifibot_navigation/launch/navigation.launch.py

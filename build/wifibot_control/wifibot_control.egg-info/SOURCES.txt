@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+config/controllers.yaml
+config/velocity_limits.yaml
+launch/control.launch.py
+resource/wifibot_control
+wifibot_control/__init__.py
+wifibot_control/cmd_vel_adapter.py
+wifibot_control.egg-info/PKG-INFO
+wifibot_control.egg-info/SOURCES.txt
+wifibot_control.egg-info/dependency_links.txt
+wifibot_control.egg-info/entry_points.txt
+wifibot_control.egg-info/requires.txt
+wifibot_control.egg-info/top_level.txt
+wifibot_control.egg-info/zip-safe

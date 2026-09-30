@@ -1,0 +1,31 @@
+[3.269s] Invoking command in '/home/user/wifibot_ws/build/wifibot_navigation': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_navigation/build --no-deps symlink_data
+[4.221s] running develop
+[5.105s] running egg_info
+[5.106s] creating wifibot_navigation.egg-info
+[5.107s] writing wifibot_navigation.egg-info/PKG-INFO
+[5.108s] writing dependency_links to wifibot_navigation.egg-info/dependency_links.txt
+[5.109s] writing entry points to wifibot_navigation.egg-info/entry_points.txt
+[5.109s] writing requirements to wifibot_navigation.egg-info/requires.txt
+[5.109s] writing top-level names to wifibot_navigation.egg-info/top_level.txt
+[5.110s] writing manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+[5.118s] reading manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+[5.121s] writing manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+[5.273s] running build_ext
+[5.273s] Creating /home/user/wifibot_ws/install/wifibot_navigation/lib/python3.10/site-packages/wifibot-navigation.egg-link (link to .)
+[5.276s] 
+[5.277s] Installed /home/user/wifibot_ws/build/wifibot_navigation
+[5.280s] running symlink_data
+[5.280s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index
+[5.281s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index
+[5.281s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index/packages
+[5.281s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/resource/wifibot_navigation -> /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index/packages
+[5.281s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/package.xml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation
+[5.281s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/launch
+[5.281s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/launch/navigation.launch.py -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/launch
+[5.282s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/config
+[5.282s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/config/nav2.yaml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/config
+[5.282s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps
+[5.282s] creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor
+[5.282s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/maps/indoor/map.yaml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor
+[5.286s] symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/maps/indoor/map.pgm -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor
+[5.484s] Invoked command in '/home/user/wifibot_ws/build/wifibot_navigation' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_navigation/build --no-deps symlink_data

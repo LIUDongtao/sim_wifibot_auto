@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating wifibot_navigation.egg-info
+writing wifibot_navigation.egg-info/PKG-INFO
+writing dependency_links to wifibot_navigation.egg-info/dependency_links.txt
+writing entry points to wifibot_navigation.egg-info/entry_points.txt
+writing requirements to wifibot_navigation.egg-info/requires.txt
+writing top-level names to wifibot_navigation.egg-info/top_level.txt
+writing manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+reading manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_navigation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_navigation/lib/python3.10/site-packages/wifibot-navigation.egg-link (link to .)
+
+Installed /home/user/wifibot_ws/build/wifibot_navigation
+running symlink_data
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/resource/wifibot_navigation -> /home/user/wifibot_ws/install/wifibot_navigation/share/ament_index/resource_index/packages
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/package.xml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/launch
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/launch/navigation.launch.py -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/launch
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/config
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/config/nav2.yaml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/config
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps
+creating /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/maps/indoor/map.yaml -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor
+symbolically linking /home/user/wifibot_ws/build/wifibot_navigation/maps/indoor/map.pgm -> /home/user/wifibot_ws/install/wifibot_navigation/share/wifibot_navigation/maps/indoor

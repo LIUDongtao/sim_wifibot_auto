@@ -1,0 +1,3 @@
+[console_scripts]
+destination_navigator = wifibot_tasks.destination_navigator:main
+

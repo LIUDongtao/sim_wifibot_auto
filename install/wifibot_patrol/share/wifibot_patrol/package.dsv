@@ -1,0 +1,9 @@
+source;share/wifibot_patrol/hook/pythonpath.ps1
+source;share/wifibot_patrol/hook/pythonpath.dsv
+source;share/wifibot_patrol/hook/pythonpath.sh
+source;share/wifibot_patrol/hook/ament_prefix_path.ps1
+source;share/wifibot_patrol/hook/ament_prefix_path.dsv
+source;share/wifibot_patrol/hook/ament_prefix_path.sh
+source;../../build/wifibot_patrol/share/wifibot_patrol/hook/pythonpath_develop.ps1
+source;../../build/wifibot_patrol/share/wifibot_patrol/hook/pythonpath_develop.dsv
+source;../../build/wifibot_patrol/share/wifibot_patrol/hook/pythonpath_develop.sh

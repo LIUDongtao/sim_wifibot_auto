@@ -1,0 +1,1 @@
+/home/user/wifibot_ws/src/wifibot_bringup/launch/sim_bringup.launch.py

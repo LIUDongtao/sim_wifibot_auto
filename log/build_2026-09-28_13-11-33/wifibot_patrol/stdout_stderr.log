@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing wifibot_patrol.egg-info/PKG-INFO
+writing dependency_links to wifibot_patrol.egg-info/dependency_links.txt
+writing entry points to wifibot_patrol.egg-info/entry_points.txt
+writing requirements to wifibot_patrol.egg-info/requires.txt
+writing top-level names to wifibot_patrol.egg-info/top_level.txt
+reading manifest file 'wifibot_patrol.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_patrol.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages/wifibot-patrol.egg-link (link to .)
+Installing path_follower script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol
+Installing patrol_node script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol
+
+Installed /home/user/wifibot_ws/build/wifibot_patrol
+running symlink_data

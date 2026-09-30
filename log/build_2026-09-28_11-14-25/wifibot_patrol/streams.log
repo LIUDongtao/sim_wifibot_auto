@@ -1,0 +1,25 @@
+[4.017s] Invoking command in '/home/user/wifibot_ws/build/wifibot_patrol': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_patrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_patrol/build --no-deps symlink_data
+[4.972s] running develop
+[5.574s] running egg_info
+[5.574s] creating wifibot_patrol.egg-info
+[5.575s] writing wifibot_patrol.egg-info/PKG-INFO
+[5.575s] writing dependency_links to wifibot_patrol.egg-info/dependency_links.txt
+[5.576s] writing entry points to wifibot_patrol.egg-info/entry_points.txt
+[5.576s] writing requirements to wifibot_patrol.egg-info/requires.txt
+[5.576s] writing top-level names to wifibot_patrol.egg-info/top_level.txt
+[5.577s] writing manifest file 'wifibot_patrol.egg-info/SOURCES.txt'
+[5.581s] reading manifest file 'wifibot_patrol.egg-info/SOURCES.txt'
+[5.583s] writing manifest file 'wifibot_patrol.egg-info/SOURCES.txt'
+[5.689s] running build_ext
+[5.690s] Creating /home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages/wifibot-patrol.egg-link (link to .)
+[5.692s] Installing path_follower script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol
+[5.692s] Installing patrol_node script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol
+[5.692s] 
+[5.693s] Installed /home/user/wifibot_ws/build/wifibot_patrol
+[5.693s] running symlink_data
+[5.693s] creating /home/user/wifibot_ws/install/wifibot_patrol/share/ament_index
+[5.694s] creating /home/user/wifibot_ws/install/wifibot_patrol/share/ament_index/resource_index
+[5.694s] creating /home/user/wifibot_ws/install/wifibot_patrol/share/ament_index/resource_index/packages
+[5.694s] symbolically linking /home/user/wifibot_ws/build/wifibot_patrol/resource/wifibot_patrol -> /home/user/wifibot_ws/install/wifibot_patrol/share/ament_index/resource_index/packages
+[5.694s] symbolically linking /home/user/wifibot_ws/build/wifibot_patrol/package.xml -> /home/user/wifibot_ws/install/wifibot_patrol/share/wifibot_patrol
+[5.838s] Invoked command in '/home/user/wifibot_ws/build/wifibot_patrol' returned '0': PYTHONPATH=/home/user/wifibot_ws/build/wifibot_patrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/wifibot_ws/build/wifibot_patrol/build --no-deps symlink_data

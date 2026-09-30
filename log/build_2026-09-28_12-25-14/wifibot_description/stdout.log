@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing wifibot_description.egg-info/PKG-INFO
+writing dependency_links to wifibot_description.egg-info/dependency_links.txt
+writing entry points to wifibot_description.egg-info/entry_points.txt
+writing requirements to wifibot_description.egg-info/requires.txt
+writing top-level names to wifibot_description.egg-info/top_level.txt
+reading manifest file 'wifibot_description.egg-info/SOURCES.txt'
+writing manifest file 'wifibot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/wifibot_ws/install/wifibot_description/lib/python3.10/site-packages/wifibot-description.egg-link (link to .)
+
+Installed /home/user/wifibot_ws/build/wifibot_description
+running symlink_data

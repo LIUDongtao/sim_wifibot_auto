@@ -1,0 +1,118 @@
+[0.000000] (-) TimerEvent: {}
+[0.000732] (-) JobUnselected: {'identifier': 'wifibot_bringup'}
+[0.000830] (-) JobUnselected: {'identifier': 'wifibot_description'}
+[0.000882] (-) JobUnselected: {'identifier': 'wifibot_gazebo'}
+[0.000924] (-) JobUnselected: {'identifier': 'wifibot_navigation'}
+[0.000962] (-) JobUnselected: {'identifier': 'wifibot_slam'}
+[0.001025] (-) JobUnselected: {'identifier': 'wifibot_tasks'}
+[0.001075] (wifibot_control) JobQueued: {'identifier': 'wifibot_control', 'dependencies': OrderedDict()}
+[0.001124] (wifibot_patrol) JobQueued: {'identifier': 'wifibot_patrol', 'dependencies': OrderedDict()}
+[0.001164] (wifibot_control) JobStarted: {'identifier': 'wifibot_control'}
+[0.025279] (wifibot_patrol) JobStarted: {'identifier': 'wifibot_patrol'}
+[0.093970] (-) TimerEvent: {}
+[0.194945] (-) TimerEvent: {}
+[0.296296] (-) TimerEvent: {}
+[0.397140] (-) TimerEvent: {}
+[0.498172] (-) TimerEvent: {}
+[0.598872] (-) TimerEvent: {}
+[0.699513] (-) TimerEvent: {}
+[0.800277] (-) TimerEvent: {}
+[0.900949] (-) TimerEvent: {}
+[1.001801] (-) TimerEvent: {}
+[1.102583] (-) TimerEvent: {}
+[1.203299] (-) TimerEvent: {}
+[1.304032] (-) TimerEvent: {}
+[1.404732] (-) TimerEvent: {}
+[1.505876] (-) TimerEvent: {}
+[1.606555] (-) TimerEvent: {}
+[1.707216] (-) TimerEvent: {}
+[1.808008] (-) TimerEvent: {}
+[1.908910] (-) TimerEvent: {}
+[2.009646] (-) TimerEvent: {}
+[2.110904] (-) TimerEvent: {}
+[2.211561] (-) TimerEvent: {}
+[2.315231] (-) TimerEvent: {}
+[2.415866] (-) TimerEvent: {}
+[2.516516] (-) TimerEvent: {}
+[2.617157] (-) TimerEvent: {}
+[2.717850] (-) TimerEvent: {}
+[2.818506] (-) TimerEvent: {}
+[2.919138] (-) TimerEvent: {}
+[3.020279] (-) TimerEvent: {}
+[3.121182] (-) TimerEvent: {}
+[3.221840] (-) TimerEvent: {}
+[3.322658] (-) TimerEvent: {}
+[3.423313] (-) TimerEvent: {}
+[3.524220] (-) TimerEvent: {}
+[3.624947] (-) TimerEvent: {}
+[3.725766] (-) TimerEvent: {}
+[3.826455] (-) TimerEvent: {}
+[3.919263] (wifibot_patrol) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/user/wifibot_ws/build/wifibot_patrol/build', '--no-deps', 'symlink_data'], 'cwd': '/home/user/wifibot_ws/build/wifibot_patrol', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'user', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/home/user/ros2_ws/install/zed_components/lib', 'HOME': '/home/user', 'OLDPWD': '/home/user/wifibot_ws', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '2483', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/user/ros2_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'user', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/home/user/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/GTW-ONX1-E1V9PSCF:@/tmp/.ICE-unix/2283,unix/GTW-ONX1-E1V9PSCF:/tmp/.ICE-unix/2283', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/fc854fde_b701_4a44_9a94_251b39964abb', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.195', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '45', 'AMENT_PREFIX_PATH': '/opt/ros/humble:/home/user/ros2_ws/install/zed_ros2:/home/user/ros2_ws/install/zed_wrapper:/home/user/ros2_ws/install/zed_components:/home/user/ros2_ws/install/wifibot_control', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/user/wifibot_ws/build/wifibot_patrol', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/user/wifibot_ws/build/wifibot_patrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/wifibot_control/lib/python3.10/site-packages::/usr/local/lib/python3/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/user/ros2_ws/install/zed_ros2:/home/user/ros2_ws/install/zed_wrapper:/home/user/ros2_ws/install/zed_components'}, 'shell': False}
+[3.927639] (-) TimerEvent: {}
+[4.028297] (-) TimerEvent: {}
+[4.110333] (wifibot_control) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/user/wifibot_ws/build/wifibot_control/build', '--no-deps', 'symlink_data'], 'cwd': '/home/user/wifibot_ws/build/wifibot_control', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'user', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/home/user/ros2_ws/install/zed_components/lib', 'HOME': '/home/user', 'OLDPWD': '/home/user/wifibot_ws', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '2483', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/user/ros2_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'user', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/home/user/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/GTW-ONX1-E1V9PSCF:@/tmp/.ICE-unix/2283,unix/GTW-ONX1-E1V9PSCF:/tmp/.ICE-unix/2283', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/fc854fde_b701_4a44_9a94_251b39964abb', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.195', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '45', 'AMENT_PREFIX_PATH': '/opt/ros/humble:/home/user/ros2_ws/install/zed_ros2:/home/user/ros2_ws/install/zed_wrapper:/home/user/ros2_ws/install/zed_components:/home/user/ros2_ws/install/wifibot_control', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/user/wifibot_ws/build/wifibot_control', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/user/wifibot_ws/build/wifibot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/wifibot_ws/install/wifibot_control/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/wifibot_control/lib/python3.10/site-packages::/usr/local/lib/python3/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/user/ros2_ws/install/zed_ros2:/home/user/ros2_ws/install/zed_wrapper:/home/user/ros2_ws/install/zed_components'}, 'shell': False}
+[4.128954] (-) TimerEvent: {}
+[4.229624] (-) TimerEvent: {}
+[4.330241] (-) TimerEvent: {}
+[4.430856] (-) TimerEvent: {}
+[4.531522] (-) TimerEvent: {}
+[4.632142] (-) TimerEvent: {}
+[4.732723] (-) TimerEvent: {}
+[4.834119] (-) TimerEvent: {}
+[4.934780] (-) TimerEvent: {}
+[5.035438] (-) TimerEvent: {}
+[5.136132] (-) TimerEvent: {}
+[5.236771] (-) TimerEvent: {}
+[5.248956] (wifibot_patrol) StdoutLine: {'line': b'running develop\n'}
+[5.337058] (-) TimerEvent: {}
+[5.437737] (-) TimerEvent: {}
+[5.538379] (-) TimerEvent: {}
+[5.580109] (wifibot_control) StdoutLine: {'line': b'running develop\n'}
+[5.638573] (-) TimerEvent: {}
+[5.739897] (-) TimerEvent: {}
+[5.840616] (-) TimerEvent: {}
+[5.941780] (-) TimerEvent: {}
+[6.042536] (-) TimerEvent: {}
+[6.143227] (-) TimerEvent: {}
+[6.243925] (-) TimerEvent: {}
+[6.288099] (wifibot_patrol) StdoutLine: {'line': b'running egg_info\n'}
+[6.288651] (wifibot_patrol) StdoutLine: {'line': b'writing wifibot_patrol.egg-info/PKG-INFO\n'}
+[6.289937] (wifibot_patrol) StdoutLine: {'line': b'writing dependency_links to wifibot_patrol.egg-info/dependency_links.txt\n'}
+[6.291399] (wifibot_patrol) StdoutLine: {'line': b'writing entry points to wifibot_patrol.egg-info/entry_points.txt\n'}
+[6.291676] (wifibot_patrol) StdoutLine: {'line': b'writing requirements to wifibot_patrol.egg-info/requires.txt\n'}
+[6.291840] (wifibot_patrol) StdoutLine: {'line': b'writing top-level names to wifibot_patrol.egg-info/top_level.txt\n'}
+[6.303045] (wifibot_patrol) StdoutLine: {'line': b"reading manifest file 'wifibot_patrol.egg-info/SOURCES.txt'\n"}
+[6.324473] (wifibot_patrol) StdoutLine: {'line': b"writing manifest file 'wifibot_patrol.egg-info/SOURCES.txt'\n"}
+[6.344089] (-) TimerEvent: {}
+[6.444883] (-) TimerEvent: {}
+[6.462034] (wifibot_patrol) StdoutLine: {'line': b'running build_ext\n'}
+[6.462972] (wifibot_patrol) StdoutLine: {'line': b'Creating /home/user/wifibot_ws/install/wifibot_patrol/lib/python3.10/site-packages/wifibot-patrol.egg-link (link to .)\n'}
+[6.465539] (wifibot_patrol) StdoutLine: {'line': b'Installing path_follower script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol\n'}
+[6.466871] (wifibot_patrol) StdoutLine: {'line': b'Installing patrol_node script to /home/user/wifibot_ws/install/wifibot_patrol/lib/wifibot_patrol\n'}
+[6.467119] (wifibot_patrol) StdoutLine: {'line': b'\n'}
+[6.467277] (wifibot_patrol) StdoutLine: {'line': b'Installed /home/user/wifibot_ws/build/wifibot_patrol\n'}
+[6.467429] (wifibot_patrol) StdoutLine: {'line': b'running symlink_data\n'}
+[6.545059] (-) TimerEvent: {}
+[6.585020] (wifibot_control) StdoutLine: {'line': b'running egg_info\n'}
+[6.586509] (wifibot_control) StdoutLine: {'line': b'writing wifibot_control.egg-info/PKG-INFO\n'}
+[6.588068] (wifibot_control) StdoutLine: {'line': b'writing dependency_links to wifibot_control.egg-info/dependency_links.txt\n'}
+[6.589276] (wifibot_control) StdoutLine: {'line': b'writing entry points to wifibot_control.egg-info/entry_points.txt\n'}
+[6.590230] (wifibot_control) StdoutLine: {'line': b'writing requirements to wifibot_control.egg-info/requires.txt\n'}
+[6.591070] (wifibot_control) StdoutLine: {'line': b'writing top-level names to wifibot_control.egg-info/top_level.txt\n'}
+[6.607603] (wifibot_control) StdoutLine: {'line': b"reading manifest file 'wifibot_control.egg-info/SOURCES.txt'\n"}
+[6.611535] (wifibot_control) StdoutLine: {'line': b"writing manifest file 'wifibot_control.egg-info/SOURCES.txt'\n"}
+[6.645224] (-) TimerEvent: {}
+[6.743795] (wifibot_control) StdoutLine: {'line': b'running build_ext\n'}
+[6.745324] (wifibot_control) StdoutLine: {'line': b'Creating /home/user/wifibot_ws/install/wifibot_control/lib/python3.10/site-packages/wifibot-control.egg-link (link to .)\n'}
+[6.745686] (-) TimerEvent: {}
+[6.749251] (wifibot_control) StdoutLine: {'line': b'Installing cmd_vel_adapter script to /home/user/wifibot_ws/install/wifibot_control/lib/wifibot_control\n'}
+[6.750925] (wifibot_control) StdoutLine: {'line': b'\n'}
+[6.751508] (wifibot_control) StdoutLine: {'line': b'Installed /home/user/wifibot_ws/build/wifibot_control\n'}
+[6.752037] (wifibot_control) StdoutLine: {'line': b'running symlink_data\n'}
+[6.813514] (wifibot_patrol) CommandEnded: {'returncode': 0}
+[6.847147] (-) TimerEvent: {}
+[6.876370] (wifibot_patrol) JobEnded: {'identifier': 'wifibot_patrol', 'rc': 0}
+[6.947334] (-) TimerEvent: {}
+[7.007321] (wifibot_control) CommandEnded: {'returncode': 0}
+[7.036486] (wifibot_control) JobEnded: {'identifier': 'wifibot_control', 'rc': 0}
+[7.039850] (-) EventReactorShutdown: {}

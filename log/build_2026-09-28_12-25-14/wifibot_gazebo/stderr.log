@@ -1,0 +1,1 @@
+error: [Errno 17] File exists: '/home/user/wifibot_ws/build/wifibot_gazebo/launch/__pycache__/simulation.launch.cpython-310.pyc' -> '/home/user/wifibot_ws/install/wifibot_gazebo/share/wifibot_gazebo/launch/__pycache__/simulation.launch.cpython-310.pyc'

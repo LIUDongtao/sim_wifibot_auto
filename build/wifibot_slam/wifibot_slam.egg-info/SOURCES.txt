@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+config/rgbd_odometry.yaml
+config/rtabmap_localization.yaml
+config/rtabmap_mapping.yaml
+launch/localization.launch.py
+launch/mapping.launch.py
+resource/wifibot_slam
+wifibot_slam/__init__.py
+wifibot_slam.egg-info/PKG-INFO
+wifibot_slam.egg-info/SOURCES.txt
+wifibot_slam.egg-info/dependency_links.txt
+wifibot_slam.egg-info/entry_points.txt
+wifibot_slam.egg-info/requires.txt
+wifibot_slam.egg-info/top_level.txt
+wifibot_slam.egg-info/zip-safe
